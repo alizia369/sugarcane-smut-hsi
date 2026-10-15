@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Early Detection of Sugarcane Smut in Hyperspectral Images"
+type: software
+authors:
+  - family-names: "Zia"
+    given-names: "Ali"
+repository-code: "https://github.com/alizia369/sugarcane-smut-hsi"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Early Detection of Sugarcane Smut Disease in Hyperspectral Images"
+  authors:
+    - family-names: "Bao"
+      given-names: "Dong"
+    - family-names: "Zhou"
+      given-names: "Jun"
+    - family-names: "Bhuiyan"
+      given-names: "Shamsul Arafin"
+    - family-names: "Zia"
+      given-names: "Ali"
+    - family-names: "Ford"
+      given-names: "Rebecca"
+    - family-names: "Gao"
+      given-names: "Yongsheng"
+  year: 2021
+  collection-title: "36th International Conference on Image and Vision Computing New Zealand (IVCNZ)"
+  doi: "10.1109/IVCNZ54163.2021.9653386"
